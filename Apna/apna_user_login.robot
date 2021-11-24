@@ -162,6 +162,7 @@ User Enters Job categories
     Click Element                       ${Accounts}   
   
     Click Element                            ${Done}  
+User Added Gallery and See Jobs  
 
     Wait for text on Screen and click Text                  ${Skip}     
      

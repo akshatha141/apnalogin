@@ -29,4 +29,5 @@ User Education Details
     User Enters University Details  
 
 User Category Details  
-    User Enters Job categories        
+    User Enters Job categories
+    User Added Gallery and See Jobs        
