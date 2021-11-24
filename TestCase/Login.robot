@@ -1,8 +1,7 @@
 *** Settings ***
 Library    AppiumLibrary
 Resource    ../Resources/common.robot
-Resource    ../Resources/commonvariables.robot
-Resource    ../Keywords/apnakeywords.robot
+
 
 
 
