@@ -45,6 +45,8 @@ Enter User Details(Name,Job City,Job Location)
     Wait for text on Screen                   ${Next}
     
     Input Text                                ${Name_Feild}               ${Name} 
+    
+    Hide Keyboard
 
     Click Element                             ${Job_City}  
 

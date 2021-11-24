@@ -10,7 +10,7 @@ ${Select_None}                 NONE OF THE ABOVE
 ${Mobile_Field}                com.apnatime.debug:id/et_login_number                             
 ${Go_Button}                   com.apnatime.debug:id/btn_send
 ${Mobile_Text}                 Your Mobile number
-${Mobile_number}               8886786501
+${Mobile_number}               8886786101
 
 
 #OTP Variables
