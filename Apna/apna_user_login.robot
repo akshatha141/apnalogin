@@ -137,7 +137,7 @@ User Enters Highest Qualification
     Wait for text on Screen                                   ${Education} 
     log source
     Click Element                                             ${Education_Details} 
-    
+    # Click Text     Provide the current or the highest qualification
     Click Element At Coordinates                              179     1796    
     
 User Enters Degree Details
